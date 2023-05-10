@@ -1,0 +1,19 @@
+td,
+th {
+  border: 1px solid #ddff01;
+  text-align: left;
+  padding: 8px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  margin: 0 auto 0 auto;
+}
+.edit-delete {
+  display: flex;
+  gap: 1.5em;
+}
+.deleteicon {
+  cursor: pointer;
+}

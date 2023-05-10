@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;700&display=swap");
+
+* {
+  font-family: "Titillium Web", sans-serif;
+  color: #fff;
+}
+a {
+  text-decoration: none;
+}
+body {
+  background: rgb(31, 30, 30);
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.Nav {
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: sticky;
+  height: 80px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.NavLink {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  height: 100%;
+  margin-right: 100px;
+  cursor: pointer;
+}
+
+.active {
+  color: #15cdfc;
+  text-decoration: underline;
+}
+
+.NavBtn {
+  display: flex;
+  align-items: center;
+  margin-right: 24px;
+}
+
+.NavBtnLink {
+  border-radius: 4px;
+  background: #ff0000;
+  padding: 10px 22px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+  margin-left: 24px;
+}

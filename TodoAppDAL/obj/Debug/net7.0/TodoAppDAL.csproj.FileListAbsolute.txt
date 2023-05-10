@@ -1,0 +1,14 @@
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\bin\Debug\net7.0\TodoAppDAL.deps.json
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\bin\Debug\net7.0\TodoAppDAL.runtimeconfig.json
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\bin\Debug\net7.0\TodoAppDAL.dll
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\bin\Debug\net7.0\TodoAppDAL.pdb
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\obj\Debug\net7.0\TodoAppDAL.csproj.AssemblyReference.cache
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\obj\Debug\net7.0\TodoAppDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\obj\Debug\net7.0\TodoAppDAL.AssemblyInfoInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\obj\Debug\net7.0\TodoAppDAL.AssemblyInfo.cs
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\obj\Debug\net7.0\TodoAppDAL.csproj.CoreCompileInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\obj\Debug\net7.0\TodoAppDAL.dll
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\obj\Debug\net7.0\refint\TodoAppDAL.dll
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\obj\Debug\net7.0\TodoAppDAL.pdb
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\obj\Debug\net7.0\TodoAppDAL.genruntimeconfig.cache
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppDAL\obj\Debug\net7.0\ref\TodoAppDAL.dll

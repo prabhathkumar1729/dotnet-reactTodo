@@ -1,0 +1,17 @@
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\bin\Debug\net7.0\TodoAppBL.deps.json
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\bin\Debug\net7.0\TodoAppBL.runtimeconfig.json
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\bin\Debug\net7.0\TodoAppBL.dll
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\bin\Debug\net7.0\TodoAppBL.pdb
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\bin\Debug\net7.0\TodoAppDAL.dll
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\bin\Debug\net7.0\TodoAppDAL.pdb
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\obj\Debug\net7.0\TodoAppBL.csproj.AssemblyReference.cache
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\obj\Debug\net7.0\TodoAppBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\obj\Debug\net7.0\TodoAppBL.AssemblyInfoInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\obj\Debug\net7.0\TodoAppBL.AssemblyInfo.cs
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\obj\Debug\net7.0\TodoAppBL.csproj.CoreCompileInputs.cache
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\obj\Debug\net7.0\TodoAppBL.csproj.CopyComplete
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\obj\Debug\net7.0\TodoAppBL.dll
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\obj\Debug\net7.0\refint\TodoAppBL.dll
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\obj\Debug\net7.0\TodoAppBL.pdb
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\obj\Debug\net7.0\TodoAppBL.genruntimeconfig.cache
+C:\Users\prabhath.rayabarapu\Desktop\VS_files\reactdotnetassign\TodoAppBL\obj\Debug\net7.0\ref\TodoAppBL.dll
